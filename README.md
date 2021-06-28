@@ -5,12 +5,12 @@ One Paragraph of project description goes here.
 
 ## 🏃️ Getting Started 快速起步
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.  
 如何快速本地安装，运行，测试，以及如何部署到生产环境
 
 ### ✅ Prerequisites 安装前准备
 
-What things you need to install the software and how to install them
+What things you need to install the software and how to install them   
 需要安装的软件和配置
 
 ```
@@ -47,7 +47,7 @@ Explain what these tests test and why
 Give an example
 ```
 
-### 🧾 And coding style tests 
+### 🧾 And coding style tests 代码风格
 
 Explain what these tests test and why
 
@@ -69,7 +69,7 @@ Add additional notes about how to deploy this on a live system
 
 The versions available, see the [tags on this repository](/releases).
 
-## 🚸 Support
+## 🚸 Support 技术支持
 
 To support this project development please consider [DONATING](https://fillyagioro.vercel.app/#support).
 
@@ -77,13 +77,13 @@ To support this project development please consider [DONATING](https://fillyagio
 
 Please read [`CONTRIBUTING`](https://github.com/FillyAgioro/.github/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## ✏️ Authors
+## ✏️ Authors 作者
 
 * **Billie Thompson** - *Initial work* - [BT](/)
 
 See also the list of [Contributors](https://github.com/FillyAgioro/template/graphs/contributors) who participated in this project.
 
-## 📄️ License
+## © License 
 
 See the [`LICENSE`](LICENSE.txt) file for details
 
